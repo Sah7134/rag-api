@@ -1,0 +1,22 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# venv
+.venv/
+venv/
+
+# secrets/env
+.env
+*.env
+
+# caches
+.pytest_cache/
+.mypy_cache/
+
+# données projet
+store/
