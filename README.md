@@ -34,7 +34,7 @@ Ce projet illustre une compétence clé d’**AI/ML Engineer appliqué** :
 
 ### Étapes
 ```bash
-git clone https://github.com/TON-UTILISATEUR/rag-api.git
+git clone https://github.com/Sah7134/rag-api.git
 cd rag-api
 
 python -m venv .venv
